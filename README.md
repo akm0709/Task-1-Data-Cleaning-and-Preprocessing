@@ -21,9 +21,8 @@ Cleaned a retail sales dataset (1,000 transactions) using Excel as part of a Dat
 4. **Quality Checks**: Filtered for outliers in Age, Quantity, and Prices
 
 ## Files Included
-- `Raw_Data.xlsx` - Original dataset
-- `Cleaned_Data.xlsx` - Processed version
-- `Cleaning_Steps.pdf` - Screenshots of Excel operations
+- Original dataset: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
+- Cleaned dataset: 'retail_sales_dataset.csv' (file attached)
 
 ## Key Takeaways
 - Confirmed no missing values
